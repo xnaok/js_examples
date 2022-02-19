@@ -3,3 +3,4 @@
 
 # References
 - https://www.w3schools.com/js/js_examples.asp
+- https://www.programiz.com/javascript/examples/quadratic-roots
