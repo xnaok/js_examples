@@ -1,4 +1,4 @@
-# JacaScript Examples by W3schools
+# JacaScript Examples by Web Sites
 - This is the repo for practicing JavaScript grammar.
 
 # References
