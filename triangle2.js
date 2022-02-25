@@ -7,7 +7,7 @@ const side3 = parseInt(prompt('Enter side3: '));
 // calculate the semi-perimeter
 const s = (side1 + side2 + side3) / 2;
 
-// calculate the areaa
+// calculate the area
 const areaValue = Math.sqrt(
     s * (s - side1) * (s - side2) * (s - side3)
 );
